@@ -21,6 +21,6 @@
   <project remote="freescale" revision="krogoth" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project remote="freescale" revision="krogoth" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
   <project remote="freescale" revision="krogoth" name="Documentation" path="sources/Documentation"/>
-  <project remote="modjo756"  revision="krogoth" name="meta-udoo-modjo" path="sources/meta-udoo-modjo"/>
+  <project remote="modjo756"  revision="krogoth-modjo" name="meta-udoo-modjo" path="sources/meta-udoo-modjo"/>
 
 </manifest>
