@@ -7,6 +7,7 @@
   <remote fetch="https://github.com/Freescale" name="freescale"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/modjo756" name="modjo756"/>
+  <remote fetch="https://github.com/meta-qt5" name="qt5"/>
 
   <project remote="yocto" revision="krogoth" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="krogoth" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
@@ -22,5 +23,6 @@
   <project remote="freescale" revision="krogoth" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
   <project remote="freescale" revision="krogoth" name="Documentation" path="sources/Documentation"/>
   <project remote="modjo756"  revision="krogoth-modjo" name="meta-udoo-modjo" path="sources/meta-udoo-modjo"/>
+  <project remote="qt5"       revision="master" name="meta-qt5" path="sources/meta-qt5"/>
 
 </manifest>
